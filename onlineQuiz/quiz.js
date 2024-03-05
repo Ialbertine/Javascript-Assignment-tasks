@@ -1,19 +1,19 @@
 // Quiz questions and answers
 const quizData = [
     {
-        question: "What is the capital of France?",
-        options: ["Berlin", "Madrid", "Paris", "Rome"],
-        correctAnswer: "Paris"
+        question: "What is the Name of the President of Rwanda?",
+        options: ["Nelson Mandela", "Paul Kagame", "Peter Kagame"],
+        correctAnswer: "Paul Kagame"
     },
     {
-        question: "Which planet is known as the Red Planet?",
-        options: ["Earth", "Mars", "Venus", "Jupiter"],
-        correctAnswer: "Mars"
+        question: "What is the capital city of Switzerland?",
+        options: ["Berlin", "Moscow", "Bern",],
+        correctAnswer: "Bern"
     },
     {
-        question: "What is the largest mammal?",
-        options: ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
-        correctAnswer: "Blue Whale"
+        question: "What is the Highst Mountain in the world?",
+        options: ["Everest", "Kilimanjaro", "Himalaya"],
+        correctAnswer: "Everest"
     }
 ];
 

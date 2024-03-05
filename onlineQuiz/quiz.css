@@ -17,15 +17,22 @@ body {
 }
 
 button {
-    background-color: #4caf50;
+    background-color: #4caf5b;
     color: #fff;
     padding: 10px 20px;
     font-size: 16px;
     border: none;
     border-radius: 4px;
     cursor: pointer;
-}
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    transition: background-color 0.3s ease;
 
+}
 button:hover {
-    background-color: #45a049;
+    background-color: #111111;
+}
+button:active{
+    background-color: #3e8e41;
 }
